@@ -1,4 +1,15 @@
-Markdown
+# AI-Driven Portfolio Strategist | Ex-Flipkart KAM | Data Quality Architect
+
+I bridge the gap between **e-commerce operational logic** and **algorithmic financial signals**. With a background in managing high-stakes accounts at Flipkart and architecting data governance at Cogito, I specialize in building AI systems that don't just "read" data, but "understand" market value.
+
+* **Technical Core:** Python, PyTorch, Transformers (FinBERT), MLOps.
+* **Business Core:** Risk Management, Portfolio Optimization, E-commerce Growth Strategy.
+* **The Edge:** I apply "Reverse Engineering" to model outputs to ensure that the data driving multi-million dollar decisions is high-alpha and noise-free.
+
+---
+
+
+
 # Financial-Sentiment-Analysis
 This project uses **PyTorch** and **FinBERT** to automate the sentiment analysis of financial news. It is designed to validate signals for algorithmic trading.
 
