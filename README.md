@@ -17,3 +17,17 @@ The model is over-weighting keywords like "forced" and "slash." It lacks the con
 
 ### **The "High-Alpha" Solution**
 As a Portfolio Strategist, I would implement a **Validation Layer** that flags "Price Change" events for manual review or cross-references them with sales volume data. This prevents the portfolio from selling a stock based on a "False Negative" sentiment.
+---
+
+## 📡 Action 4: Real-Time Market Monitoring (Flipkart Case Study)
+To demonstrate the "Live" capabilities of this engine, I connected the model to a real-time News API to monitor **Flipkart's Pre-IPO news cycle**.
+
+### **Live Signal Feed**
+![Flipkart Live Analysis](flipkart_live_analysis.png)
+
+### **Strategic Management Perspective**
+As an employee at Flipkart with a background in Business Operations, I use this tool to cross-validate "Market Sentiment" vs. "Operational Reality."
+
+* **Observation:** The model often flags executive departures or leadership restructuring as `Negative`.
+* **My Analysis:** From a Management perspective, these shifts are often **Strategic Housecleaning** ahead of a $30B+ IPO. While the AI detects "uncertainty," the business logic suggests "preparation for public listing."
+* **The Value:** This project proves I can build an AI pipeline that doesn't just read data, but provides a foundation for **Strategic Portfolio Decisions.**
